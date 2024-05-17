@@ -31,6 +31,7 @@ The **Language Translator App (LTA)** is a pioneering solution designed to addre
 - **Main Screen**: Effortlessly navigate through text and voice translation features.
 - **Offline Mode**: Easily switch to offline mode and utilize downloaded language models.
 - **Text Recognition**: Capture images of text for quick and accurate translations.
+- **Demo Link**: https://drive.google.com/file/d/1CdnRrrPgX91wh4u8hUagC3dJ3wNYLwIU/view?usp=drivesdk
 
 ---
 
