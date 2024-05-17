@@ -18,7 +18,7 @@ The **Language Translator App (LTA)** is a pioneering solution designed to addre
 
 ## 🚀 Getting Started
 
-1. **Download and Install**: Download the Language Translator App from the [Google Play Store](https://play.google.com/store).
+1. **Download and Install**: Coming Soon in Google Play Store.
 2. **First-Time Setup**: On the first use, select the language models you wish to download for offline translation.
 3. **Start Translating**: Use the text or voice input to start translating languages instantly.
 
